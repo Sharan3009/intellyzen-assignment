@@ -9,3 +9,5 @@
 - Enter the number of villagers first For e.g. `4` and hit Enter.
 - Now enter the cost of each villager in space separated format. For e.g `300 400 600 700` and hit the Enter.
 - Now input's are finalized press `ctrl + D`. This will print the output result of the corresponding input.
+
+![Alt text](./Screenshot%202020-01-18%20at%203.53.49%20PM.png?raw=true "Optional Title")
